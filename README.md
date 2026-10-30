@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kamcord is a company surfaced as a portfolio company of a16z, gv and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z, gv
+Kamcord was a San Francisco-based mobile technology company (Y Combinator, Summer 2012) founded by Aditya Rathnam, Kevin Wang, and Matt Zitzmann. It offered an iOS and Android SDK that let game developers embed in-app gameplay recording, live streaming ("appcasting"), and social sharing to YouTube, Twitter, and Facebook, and grew to roughly 200 million device installs. The company later pivoted to a short-form mobile screen-content social network ("shots"). In November 2017 Lyft acquihired most of the ~15-person team, including co-founders Rathnam and Wang, and Kamcord wound down its consumer app, live streaming, and developer SDK by the end of 2017. The company is DEFUNCT and no longer operates any developer program or API. The kamcord.com domain has since been repurposed by an unrelated lifestyle/blog publisher and is NOT associated with the original Kamcord.
+
+**Areas:** Company · Mobile · Gaming · Video · Live Streaming · SDK · Social · Defunct
+
+## Kamcord on APIs.io (historical record)
+
+Everything profiled for Kamcord is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kamcord/](https://apis.io/providers/kamcord/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kamcord: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kamcord/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
